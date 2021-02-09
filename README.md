@@ -24,7 +24,7 @@
 ##### If you want to learn more about how hash algorithms work click [here](https://www.sciencedirect.com/topics/computer-science/hashing-algorithm)
 <br>
 
-### ```Blocks```
+### ```Block Data```
 ##### In this project, I've chosen for each block to hold 7 types of data:
 - Block Number (self explanatory) (printed)
 - Data Type (for now, I'll just assign this to be "Block [number]") (printed)
