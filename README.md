@@ -36,7 +36,8 @@
 
 ##### To help you visualize this list:
 ![media-1313246-blockchainspopenerfigure1-blockcompositiondiagramfromnist](https://user-images.githubusercontent.com/59234436/107436234-444a7d00-6afb-11eb-88ff-8933917ee24a.png)
+<br>
 
 
-
+## The output of the 3 files put together should look like this.
 ![blockcain](https://user-images.githubusercontent.com/59234436/107435656-73acba00-6afa-11eb-95ed-0bcaf9512608.JPG)
