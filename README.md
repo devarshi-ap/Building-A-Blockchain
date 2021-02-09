@@ -3,16 +3,16 @@
 ### ```Blockchain and Blocks```
 ##### Blockchain is a data structure that was first introduced by Satoshi Nakamoto in the Bitcoin protocol white paper almost a decade ago.
 
-##### A block is a data structure that contains transactions, files or any data you like, really. Much like linkedlists, blocks can be linked- or chained in this case- together to form a blockchain. This is achieved by the use of hashes.
+##### A block is a data structure that contains transactions, files or any data you like, really. Much like linkedlists, blocks can be linked- or chained in this case- together to form a blockchain using hashes.
 <br>
 
 ### ```Hash Functions```
 ##### A hash function is simply a function that takes in input value, and from that input creates an output value deterministic of the input value. The input can be any data- numbers, files, etc. A hash is usually displayed as a hexadecimal number. This has several different purposes including:
 - cryptography
-- comrpession
-- checksum generation
+- compression
 - data indexing
 - blockchaining
+<br>
 
 *There are many different hash algorithms available such as:*
 - md5 (message digest 5)
@@ -21,7 +21,7 @@
 - SHA-2
 - SHA-256 (used by bitcoin)
 
-##### The Bitcoin protocol uses a blockchain to store transaction data (but you can store anything really). If you want to learn more about how hash algorithms work click [here](https://www.sciencedirect.com/topics/computer-science/hashing-algorithm)
+##### If you want to learn more about how hash algorithms work click [here](https://www.sciencedirect.com/topics/computer-science/hashing-algorithm)
 <br>
 
 ### ```Creating a Blockchain```
