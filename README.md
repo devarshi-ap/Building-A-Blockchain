@@ -8,11 +8,11 @@
 
 ### ```Hash Functions```
 ##### A hash function is simply a function that takes in input value, and from that input creates an output value deterministic of the input value. The input can be any data- numbers, files, etc. A hash is usually displayed as a hexadecimal number. This has several different purposes including:
-> cryptography
-> comrpession
-> checksum generation
-> data indexing
-> blockchaining
+- cryptography
+- comrpession
+- checksum generation
+- data indexing
+- blockchaining
 
 *There are many different hash algorithms available such as:*
 - md5 (message digest 5)
