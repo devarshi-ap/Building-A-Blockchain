@@ -21,7 +21,7 @@
 - SHA-2
 - SHA-256 (used by bitcoin)
 
-##### The Bitcoin protocol uses a blockchain to store transaction data (but you can store anything really)
+##### The Bitcoin protocol uses a blockchain to store transaction data (but you can store anything really). If you want to learn more about how hash algorithms work click [here](https://www.sciencedirect.com/topics/computer-science/hashing-algorithm)
 <br>
 
 ### ```Creating a Blockchain```
