@@ -35,4 +35,4 @@ class Block:
 
     def __str__(self):
         return "Block Hash: " + str(self.hash()) + "\nBlockNo: " + str(self.blockNum) + "\nBlock Data: " + str(
-            self.data) + "\nHashes: " + str(self.nonce) + "\nTimestamp: " + str(self.timestamp) + "\n--------------"
+            self.data) + "\nHashes: " + str(self.nonce) + "\nTimestamp: " + str(self.timestamp) + "\nPrevious: " + str(self.prevHash) + "\n--------------"
