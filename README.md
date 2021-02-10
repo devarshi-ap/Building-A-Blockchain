@@ -29,8 +29,8 @@
 - Block Number (self explanatory) (printed)
 - Data Type (for now, I'll just assign this to be "Block [number]") (printed)
 - Pointer (pointer to the next block) (not printed)
-- Block Hash (created using SHA256 module- deterministic of ther other 6 data listed here) (printed)
-- Nonce (stands for number used only once; read more about it [here](https://www.investopedia.com/terms/n/nonce.asp#:~:text=A%20nonce%20is%20an%20abbreviation,blockchain%20miners%20are%20solving%20for.) (not printed)
+- Block Hash (created using SHA256 module- deterministic of block's data) (printed)
+- Nonce (stands for number used only once; read more about it [here](https://www.investopedia.com/terms/n/nonce.asp#:~:text=A%20nonce%20is%20an%20abbreviation,blockchain%20miners%20are%20solving%20for.) (printed as "hashes")
 - Previous Hash (hash of the previous block in the chain; this allows for it's structure) (printed)
 - Timestamp (what time the block was added to the chain) (printed)
 
